@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "week 3 owens project",
+			"path": "."
+		},
+		{
+			"name": "mwangi's project",
+			"path": "../mwangi's project"
+		},
+		{
+			"name": "products",
+			"path": "../products"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "week 3 owens project"
+	}
+}
