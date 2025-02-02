@@ -186,7 +186,7 @@ input[type="date"]:focus {
   animation: loading 1.5s infinite;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 760px) {
   .gender-options {
       grid-template-columns: 1fr;
   }
