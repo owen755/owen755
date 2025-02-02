@@ -1,31 +1,69 @@
-## Hi there 👋
-# Akan Name Generator 🌍
 
-Discover your traditional Akan name based on your birth date and gender! This web app calculates the day of the week you were born and assigns you a culturally significant Ghanaian name from the Akan people.
+# Akan Name Generator
 
-![Demo Screenshot](images/screenshot.png)  
-*Live Demo: [Try it here!](https://your-live-demo-link.com)*
+## 📌 Project Overview
 
-## Table of Contents
-- [Features](#features)
-- [About Akan Names](#about-akan-names)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [Author](#author)
+The **Akan Name Generator** is a web-based application that determines a person's Akan name based on their birth date and gender. Akan names originate from Ghana and are assigned based on the day of the week a person is born.
 
-## Features ✨
-- 📅 **Date Validation**: Ensures valid date input (day, month, year).
-- ♂♀ **Gender Selection**: Choose between male and female for the correct Akan name.
-- 📢 **Instant Result**: Displays your Akan name and birthday immediately after submission.
-- 🎨 **Responsive Design**: Works seamlessly on mobile and desktop.
-- ❌ **Error Handling**: Shows alerts for invalid inputs.
+## 🚀 Features
 
-## About Akan Names 📖
-Akan names are derived from the Akan people of Ghana. In this country, boys and girls have unique names for each day of the week. These names reflect cultural values and spiritual beliefs.
+- 🌍 Determines Akan names based on Ghanaian naming tradition.
+- 📅 User inputs birth date and selects gender.
+- 🔄 Instant result display with the assigned Akan name.
+- 🎨 Simple and user-friendly interface.
+
+1. 🛠️ Technologies Used
+   - **HTML** – Structuring the web page.
+   - **CSS** – Styling the application.
+   - **JavaScript** – Handling logic and calculations.
+   ## 📖 How It Works
+   1. User enters their **birth date**.
+   2. Selects their **gender** (Male/Female).
+   3. Clicks the **Submit** button.
+   4. The system calculates the day of the week they were born on.
+   5. Displays the corresponding Akan name.
+   ## 📜 Akan Name Chart
+   | Day of the Week | Male Name | Female Name |
+   | --------------- | --------- | ----------- |
+   | Sunday          | Kwasi     | Akosua      |
+   | Monday          | Kwadwo    | Adwoa       |
+   | Tuesday         | Kwabena   | Abenaa      |
+   | Wednesday       | Kwaku     | Akua        |
+   | Thursday        | Yaw       | Yaa         |
+   | Friday          | Kofi      | Afia        |
+   | Saturday        | Kwame     | Ama         |
+   ## 🎯 How to Run the Project
+   1. Clone this repository:
+      
+      git clone <https://github.com/owen755/owen755.git>
+      ```
+   2. Navigate to the project directory:
+   
+   cd akan-name-generator
+   ```
+2. Open `index.html` in a browser.
+
+## 📷 Screenshots
+
+&#x20;*(Replace with an actual image of the project UI)*
+
+## 💡 Future Enhancements
+
+- 🌟 Add more cultural explanations.
+- 🌍 Support multiple languages.
+- 📱 Improve mobile responsiveness.
+- 🔊 Add audio pronunciation for names.
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repo and submit a pull request with improvements.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
 
 
- 
+
+
