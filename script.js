@@ -131,7 +131,7 @@ akanForm.addEventListener('submit', async (e) => {
         const year = date.getFullYear();
 
         // Validate components
-        if (year < 1899 || year > 2025) {
+        if (year < 1900 || year > 2025) {
             showError('Year must be between 1899 and 2025');
             return;
         }
