@@ -162,7 +162,7 @@ input[type="date"]:focus {
 }
 
 .result-card {
-  background: rgba(46, 204, 113, 0.1);
+  background: rgba(105, 178, 135, 0.1);
   border: 2px solid var(--success);
   color: var(--success);
 }
