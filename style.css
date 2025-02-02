@@ -139,7 +139,7 @@ input[type="date"]:focus {
 
 .gender-card input:checked + .card-content {
   border-color: var(--secondary);
-  background-color: rgba(52, 152, 219, 0.1);
+  background-color: rgba(113, 187, 236, 0.1);
 }
 
 /* Result Styles */
